@@ -1,0 +1,1154 @@
+[
+    {
+        "name": "Aquaman",
+        "version": "Prime",
+        "quality": "Gold",
+        "damage": "950",
+        "health": "1,050",
+        "price": "220,000"
+    },
+    {
+        "name": "Aquaman",
+        "version": "Flashpoint",
+        "quality": "Gold",
+        "damage": "1,350",
+        "health": "1,250",
+        "price": "Online Exclusive"
+    },
+    {
+        "name": "Aquaman",
+        "version": "Injustice 2",
+        "quality": "Gold",
+        "damage": "1,400",
+        "health": "1,400",
+        "price": "479,000"
+    },
+    {
+        "name": "Aquaman",
+        "version": "Regime",
+        "quality": "Gold",
+        "damage": "800",
+        "health": "1,050",
+        "price": "192,000"
+    },
+    {
+        "name": "Ares",
+        "version": "Prime",
+        "quality": "Gold",
+        "damage": "1,200",
+        "health": "900",
+        "price": "Online Exclusive"
+    },
+    {
+        "name": "Bane",
+        "version": "Prime",
+        "quality": "Gold",
+        "damage": "650",
+        "health": "1,000",
+        "price": "157,000"
+    },
+    {
+        "name": "Bane",
+        "version": "Arkham Origins",
+        "quality": "Gold",
+        "damage": "1,100",
+        "health": "1,100",
+        "price": "262,000"
+    },
+    {
+        "name": "Bane",
+        "version": "Knightfall",
+        "quality": "Silver",
+        "damage": "470",
+        "health": "420",
+        "price": "50,000"
+    },
+    {
+        "name": "Bane",
+        "version": "Luchador",
+        "quality": "Gold",
+        "damage": "1,100",
+        "health": "800",
+        "price": "201,000"
+    },
+    {
+        "name": "Bane",
+        "version": "Regime",
+        "quality": "Silver",
+        "damage": "460",
+        "health": "400",
+        "price": "47,000"
+    },
+    {
+        "name": "Batgirl",
+        "version": "Prime",
+        "quality": "Gold",
+        "damage": "850",
+        "health": "1,000",
+        "price": "192,000"
+    },
+    {
+        "name": "Batgirl",
+        "version": "Arkham Knight",
+        "quality": "Gold",
+        "damage": "1,375",
+        "health": "1,325",
+        "price": "495,000"
+    },
+    {
+        "name": "Batgirl",
+        "version": "Cassandra Cain",
+        "quality": "Gold",
+        "damage": "1,150",
+        "health": "950",
+        "price": "Online Exclusive"
+    },
+    {
+        "name": "Batman",
+        "version": "Prime",
+        "quality": "Gold",
+        "damage": "700",
+        "health": "1,100",
+        "price": "182,000"
+    },
+    {
+        "name": "Batman",
+        "version": "Arkham Knight",
+        "quality": "Gold",
+        "damage": "1,200",
+        "health": "1,300",
+        "price": "395,000"
+    },
+    {
+        "name": "Batman",
+        "version": "Arkham Origins",
+        "quality": "Gold",
+        "damage": "1,000",
+        "health": "1,150",
+        "price": "375,000"
+    },
+    {
+        "name": "Batman",
+        "version": "Batman Ninja",
+        "quality": "Gold",
+        "damage": "1,300",
+        "health": "1,500",
+        "price": "500,000"
+    },
+    {
+        "name": "Batman",
+        "version": "Beyond",
+        "quality": "Gold",
+        "damage": "850",
+        "health": "900",
+        "price": "174,000"
+    },
+    {
+        "name": "Batman",
+        "version": "Beyond Animated",
+        "quality": "Gold",
+        "damage": "1,100",
+        "health": "1,050",
+        "price": "252,000"
+    },
+    {
+        "name": "Batman",
+        "version": "Blackest Night",
+        "quality": "Gold",
+        "damage": "1,250",
+        "health": "1,000",
+        "price": "400,000"
+    },
+    {
+        "name": "Batman",
+        "version": "Dawn of Justice",
+        "quality": "Gold",
+        "damage": "1,300",
+        "health": "1,200",
+        "price": "400,000"
+    },
+    {
+        "name": "Batman",
+        "version": "Flashpoint",
+        "quality": "Gold",
+        "damage": "1,500",
+        "health": "1,300",
+        "price": "491,000"
+    },
+    {
+        "name": "Batman",
+        "version": "Gaslight",
+        "quality": "Gold",
+        "damage": "1,400",
+        "health": "1,400",
+        "price": "495,000"
+    },
+    {
+        "name": "Batman",
+        "version": "Insurgency",
+        "quality": "Gold",
+        "damage": "750",
+        "health": "1,050",
+        "price": "182,000"
+    },
+    {
+        "name": "Batman",
+        "version": "Red Son",
+        "quality": "Gold",
+        "damage": "900",
+        "health": "1,000",
+        "price": "201,000"
+    },
+    {
+        "name": "Black Adam",
+        "version": "Prime",
+        "quality": "Silver",
+        "damage": "500",
+        "health": "400",
+        "price": "51,000"
+    },
+    {
+        "name": "Black Adam",
+        "version": "Kahndaq",
+        "quality": "Gold",
+        "damage": "1,100",
+        "health": "1,200",
+        "price": "341,000"
+    },
+    {
+        "name": "Black Adam",
+        "version": "New 52",
+        "quality": "Metal",
+        "damage": "2,600",
+        "health": "3,000",
+        "price": "N/A"
+    },
+    {
+        "name": "Black Adam",
+        "version": "Regime",
+        "quality": "Gold",
+        "damage": "750",
+        "health": "750",
+        "price": "133,000"
+    },
+    {
+        "name": "Catwoman",
+        "version": "Prime",
+        "quality": "Silver",
+        "damage": "400",
+        "health": "300",
+        "price": "35,000"
+    },
+    {
+        "name": "Catwoman",
+        "version": "Ame-Comi",
+        "quality": "Gold",
+        "damage": "1,200",
+        "health": "1,400",
+        "price": "416,000"
+    },
+    {
+        "name": "Catwoman",
+        "version": "Arkham Knight",
+        "quality": "Gold",
+        "damage": "1,300",
+        "health": "1,000",
+        "price": "351,000"
+    },
+    {
+        "name": "Catwoman",
+        "version": "Batman Ninja",
+        "quality": "Metal",
+        "damage": "2,900",
+        "health": "2,700",
+        "price": "N/A"
+    },
+    {
+        "name": "Catwoman",
+        "version": "Batman Returns",
+        "quality": "Gold",
+        "damage": "950",
+        "health": "850",
+        "price": "182,000"
+    },
+    {
+        "name": "Catwoman",
+        "version": "Regime",
+        "quality": "Bronze",
+        "damage": "220",
+        "health": "180",
+        "price": "8,000"
+    },
+    {
+        "name": "Cyborg",
+        "version": "Prime",
+        "quality": "Bronze",
+        "damage": "190",
+        "health": "250",
+        "price": "10,000"
+    },
+    {
+        "name": "Cyborg",
+        "version": "Regime",
+        "quality": "Silver",
+        "damage": "370",
+        "health": "450",
+        "price": "44,000"
+    },
+    {
+        "name": "Cyborg",
+        "version": "Teen Titans",
+        "quality": "Gold",
+        "damage": "700",
+        "health": "1,000",
+        "price": "165,000"
+    },
+    {
+        "name": "Darkseid",
+        "version": "Prime",
+        "quality": "Gold",
+        "damage": "1,050",
+        "health": "1,200",
+        "price": "274,000"
+    },
+    {
+        "name": "Darkseid",
+        "version": "Apokolips",
+        "quality": "Gold",
+        "damage": "1,100",
+        "health": "1,400",
+        "price": "333,000"
+    },
+    {
+        "name": "Deadshot",
+        "version": "Arkham Origins",
+        "quality": "Gold",
+        "damage": "1,450",
+        "health": "1,250",
+        "price": "Online Exclusive"
+    },
+    {
+        "name": "Deadshot",
+        "version": "Suicide Squad",
+        "quality": "Gold",
+        "damage": "1,450",
+        "health": "1,250",
+        "price": "495,000"
+    },
+    {
+        "name": "Deathstroke",
+        "version": "Prime",
+        "quality": "Silver",
+        "damage": "460",
+        "health": "400",
+        "price": "47,000"
+    },
+    {
+        "name": "Deathstroke",
+        "version": "Arkham Origins",
+        "quality": "Gold",
+        "damage": "850",
+        "health": "1,100",
+        "price": "211,000"
+    },
+    {
+        "name": "Deathstroke",
+        "version": "Flashpoint",
+        "quality": "Gold",
+        "damage": "1,240",
+        "health": "1,360",
+        "price": "Online Exclusive"
+    },
+    {
+        "name": "Deathstroke",
+        "version": "Insurgency",
+        "quality": "Bronze",
+        "damage": "270",
+        "health": "200",
+        "price": "12,000"
+    },
+    {
+        "name": "Deathstroke",
+        "version": "Red Son",
+        "quality": "Gold",
+        "damage": "950",
+        "health": "900",
+        "price": "192,000"
+    },
+    {
+        "name": "Doomsday",
+        "version": "Prime",
+        "quality": "Gold",
+        "damage": "850",
+        "health": "1,050",
+        "price": "201,000"
+    },
+    {
+        "name": "Doomsday",
+        "version": "Blackest Night",
+        "quality": "Gold",
+        "damage": "1,050",
+        "health": "1,400",
+        "price": "Online Exclusive"
+    },
+    {
+        "name": "Doomsday",
+        "version": "Containment",
+        "quality": "Gold",
+        "damage": "700",
+        "health": "600",
+        "price": "220,000"
+    },
+    {
+        "name": "Doomsday",
+        "version": "Regime",
+        "quality": "Silver",
+        "damage": "400",
+        "health": "500",
+        "price": "51,000"
+    },
+    {
+        "name": "General Zod",
+        "version": "Man of Steel",
+        "quality": "Gold",
+        "damage": "800",
+        "health": "1,200",
+        "price": "220,000"
+    },
+    {
+        "name": "Green Arrow",
+        "version": "Prime",
+        "quality": "Silver",
+        "damage": "380",
+        "health": "420",
+        "price": "42,000"
+    },
+    {
+        "name": "Green Arrow",
+        "version": "Arrow",
+        "quality": "Gold",
+        "damage": "900",
+        "health": "950",
+        "price": "192,000"
+    },
+    {
+        "name": "Green Arrow",
+        "version": "Insurgency",
+        "quality": "Bronze",
+        "damage": "190",
+        "health": "230",
+        "price": "9,000"
+    },
+    {
+        "name": "Green Arrow",
+        "version": "Rebirth",
+        "quality": "Gold",
+        "damage": "1,300",
+        "health": "1,350",
+        "price": "486,000"
+    },
+    {
+        "name": "Green Lantern",
+        "version": "Prime",
+        "quality": "Bronze",
+        "damage": "260",
+        "health": "200",
+        "price": "11,000"
+    },
+    {
+        "name": "Green Lantern",
+        "version": "John Stewart",
+        "quality": "Gold",
+        "damage": "750",
+        "health": "950",
+        "price": "165,000"
+    },
+    {
+        "name": "Green Lantern",
+        "version": "New 52",
+        "quality": "Bronze",
+        "damage": "270",
+        "health": "210",
+        "price": "12,000"
+    },
+    {
+        "name": "Green Lantern",
+        "version": "Red Son",
+        "quality": "Gold",
+        "damage": "850",
+        "health": "1,150",
+        "price": "220,000"
+    },
+    {
+        "name": "Green Lantern",
+        "version": "Regime",
+        "quality": "Silver",
+        "damage": "450",
+        "health": "400",
+        "price": "47,000"
+    },
+    {
+        "name": "Hal Jordan",
+        "version": "Red Lantern",
+        "quality": "Gold",
+        "damage": "950",
+        "health": "1,400",
+        "price": "325,000"
+    },
+    {
+        "name": "Hal Jordan",
+        "version": "Yellow Lantern",
+        "quality": "Gold",
+        "damage": "1,400",
+        "health": "1,300",
+        "price": "491,000"
+    },
+    {
+        "name": "Harley Quinn",
+        "version": "Prime",
+        "quality": "Bronze",
+        "damage": "200",
+        "health": "200",
+        "price": "8,000"
+    },
+    {
+        "name": "Harley Quinn",
+        "version": "Animated",
+        "quality": "Gold",
+        "damage": "700",
+        "health": "900",
+        "price": "148,000"
+    },
+    {
+        "name": "Harley Quinn",
+        "version": "Arkham",
+        "quality": "Gold",
+        "damage": "900",
+        "health": "950",
+        "price": "182,000"
+    },
+    {
+        "name": "Harley Quinn",
+        "version": "Arkham Knight",
+        "quality": "Gold",
+        "damage": "1,100",
+        "health": "1,000",
+        "price": "285,000"
+    },
+    {
+        "name": "Harley Quinn",
+        "version": "Insurgency",
+        "quality": "Silver",
+        "damage": "380",
+        "health": "320",
+        "price": "35,000"
+    },
+    {
+        "name": "Harley Quinn",
+        "version": "Suicide Squad",
+        "quality": "Gold",
+        "damage": "1,250",
+        "health": "1,450",
+        "price": "491,000"
+    },
+    {
+        "name": "Hawkgirl",
+        "version": "Prime",
+        "quality": "Gold",
+        "damage": "900",
+        "health": "950",
+        "price": "192,000"
+    },
+    {
+        "name": "Hawkgirl",
+        "version": "Blackest Night",
+        "quality": "Gold",
+        "damage": "1,240",
+        "health": "1,360",
+        "price": "426,000"
+    },
+    {
+        "name": "Hawkgirl",
+        "version": "Earth 2",
+        "quality": "Gold",
+        "damage": "1,400",
+        "health": "1,300",
+        "price": "486,000"
+    },
+    {
+        "name": "Hawkgirl",
+        "version": "Regime",
+        "quality": "Gold",
+        "damage": "1,150",
+        "health": "1,000",
+        "price": "241,000"
+    },
+    {
+        "name": "Jessica Cruz",
+        "version": "Rebirth",
+        "quality": "Gold",
+        "damage": "1325",
+        "health": "1,325",
+        "price": "445,000"
+    },
+    {
+        "name": "Killer Croc",
+        "version": "Arkham",
+        "quality": "Gold",
+        "damage": "1,240",
+        "health": "1,360",
+        "price": "495,000"
+    },
+    {
+        "name": "Killer Frost",
+        "version": "Prime",
+        "quality": "Gold",
+        "damage": "850",
+        "health": "1,200",
+        "price": "231,000"
+    },
+    {
+        "name": "Killer Frost",
+        "version": "Regime",
+        "quality": "Gold",
+        "damage": "700",
+        "health": "1,250",
+        "price": "211,000"
+    },
+    {
+        "name": "Lex Luthor",
+        "version": "Prime",
+        "quality": "Bronze",
+        "damage": "220",
+        "health": "220",
+        "price": "10,000"
+    },
+    {
+        "name": "Lex Luthor",
+        "version": "Insurgency",
+        "quality": "Silver",
+        "damage": "420",
+        "health": "420",
+        "price": "46,000"
+    },
+    {
+        "name": "Lex Luthor",
+        "version": "Krypto",
+        "quality": "Gold",
+        "damage": "800",
+        "health": "950",
+        "price": "174,000"
+    },
+    {
+        "name": "Lobo",
+        "version": "Prime",
+        "quality": "Gold",
+        "damage": "850",
+        "health": "1,000",
+        "price": "182,000"
+    },
+    {
+        "name": "Lobo",
+        "version": "Bounty Hunter",
+        "quality": "Gold",
+        "damage": "1,250",
+        "health": "950",
+        "price": "262,000"
+    },
+    {
+        "name": "Lord Joker",
+        "version": "Batman Ninja",
+        "quality": "Gold",
+        "damage": "1,500",
+        "health": "1,300",
+        "price": "500,000"
+    },
+    {
+        "name": "Martian Manhunter",
+        "version": "Prime",
+        "quality": "Gold",
+        "damage": "750",
+        "health": "1,200",
+        "price": "211,000"
+    },
+    {
+        "name": "Martian Manhunter",
+        "version": "Blackest Night",
+        "quality": "Gold",
+        "damage": "1,000",
+        "health": "1,300",
+        "price": "330,000"
+    },
+    {
+        "name": "Nightwing",
+        "version": "Prime",
+        "quality": "Bronze",
+        "damage": "210",
+        "health": "210",
+        "price": "9,000"
+    },
+    {
+        "name": "Nightwing",
+        "version": "Batman Ninja",
+        "quality": "Metal",
+        "damage": "2,850",
+        "health": "2,750",
+        "price": "N/A"
+    },
+    {
+        "name": "Nightwing",
+        "version": "New 52",
+        "quality": "Gold",
+        "damage": "850",
+        "health": "950",
+        "price": "182,000"
+    },
+    {
+        "name": "Nightwing",
+        "version": "Regime",
+        "quality": "Silver",
+        "damage": "420",
+        "health": "380",
+        "price": "42,000"
+    },
+    {
+        "name": "Raven",
+        "version": "Prime",
+        "quality": "Gold",
+        "damage": "1,050",
+        "health": "1,000",
+        "price": "231,000"
+    },
+    {
+        "name": "Raven",
+        "version": "Rebirth",
+        "quality": "Gold",
+        "damage": "1,300",
+        "health": "1,350",
+        "price": "445,000"
+    },
+    {
+        "name": "Raven",
+        "version": "Regime",
+        "quality": "Gold",
+        "damage": "950",
+        "health": "950",
+        "price": "201,000"
+    },
+    {
+        "name": "Raven",
+        "version": "Teen Titans",
+        "quality": "Gold",
+        "damage": "1,400",
+        "health": "1,200",
+        "price": "426,000"
+    },
+    {
+        "name": "Reverse Flash",
+        "version": "Prime",
+        "quality": "Gold",
+        "damage": "1,000",
+        "health": "1,000",
+        "price": "Online Exclusive"
+    },
+    {
+        "name": "Scorpion",
+        "version": "Klassic",
+        "quality": "Gold",
+        "damage": "1,400",
+        "health": "1,200",
+        "price": "491,000"
+    },
+    {
+        "name": "Scorpion",
+        "version": "Mortal Kombat",
+        "quality": "Gold",
+        "damage": "950",
+        "health": "850",
+        "price": "182,000"
+    },
+    {
+        "name": "Scorpion",
+        "version": "Mortal Kombat X",
+        "quality": "Gold",
+        "damage": "1,200",
+        "health": "1,000",
+        "price": "265,000"
+    },
+    {
+        "name": "Shazam",
+        "version": "Prime",
+        "quality": "Gold",
+        "damage": "950",
+        "health": "1,350",
+        "price": "395,000"
+    },
+    {
+        "name": "Shazam",
+        "version": "New 52",
+        "quality": "Metal",
+        "damage": "3,000",
+        "health": "2,700",
+        "price": "N/A"
+    },
+    {
+        "name": "Sinestro",
+        "version": "Prime",
+        "quality": "Bronze",
+        "damage": "260",
+        "health": "200",
+        "price": "11,000"
+    },
+    {
+        "name": "Sinestro",
+        "version": "Antimatter",
+        "quality": "Gold",
+        "damage": "1,200",
+        "health": "1,200",
+        "price": "369,000"
+    },
+    {
+        "name": "Sinestro",
+        "version": "Green Lantern",
+        "quality": "Gold",
+        "damage": "900",
+        "health": "950",
+        "price": "192,000"
+    },
+    {
+        "name": "Sinestro",
+        "version": "Regime",
+        "quality": "Silver",
+        "damage": "450",
+        "health": "400",
+        "price": "47,000"
+    },
+    {
+        "name": "Solomon Grundy",
+        "version": "Prime",
+        "quality": "Silver",
+        "damage": "350",
+        "health": "480",
+        "price": "45,000"
+    },
+    {
+        "name": "Solomon Grundy",
+        "version": "Boss",
+        "quality": "Gold",
+        "damage": "550",
+        "health": "1,250",
+        "price": "182,000"
+    },
+    {
+        "name": "Solomon Grundy",
+        "version": "Earth 2",
+        "quality": "Gold",
+        "damage": "1,100",
+        "health": "1,300",
+        "price": "336,000"
+    },
+    {
+        "name": "Solomon Grundy",
+        "version": "Red Son",
+        "quality": "Gold",
+        "damage": "800",
+        "health": "900",
+        "price": "165,000"
+    },
+    {
+        "name": "Solomon Grundy",
+        "version": "Regime",
+        "quality": "Bronze",
+        "damage": "200",
+        "health": "260",
+        "price": "11,000"
+    },
+    {
+        "name": "Static",
+        "version": "Prime",
+        "quality": "Gold",
+        "damage": "1,050",
+        "health": "1,050",
+        "price": "241,000"
+    },
+    {
+        "name": "Superman",
+        "version": "Prime",
+        "quality": "Gold",
+        "damage": "800",
+        "health": "1,200",
+        "price": "220,000"
+    },
+    {
+        "name": "Superman",
+        "version": "Blackest Night",
+        "quality": "Gold",
+        "damage": "1,375",
+        "health": "1,425",
+        "price": "Online Exclusive"
+    },
+    {
+        "name": "Superman",
+        "version": "Dawn of Justice",
+        "quality": "Gold",
+        "damage": "1,300",
+        "health": "1,300",
+        "price": "430,000"
+    },
+    {
+        "name": "Superman",
+        "version": "Godfall",
+        "quality": "Gold",
+        "damage": "1,000",
+        "health": "1,250",
+        "price": "274,000"
+    },
+    {
+        "name": "Superman",
+        "version": "Injustice 2",
+        "quality": "Gold",
+        "damage": "1,300",
+        "health": "1,500",
+        "price": "491,000"
+    },
+    {
+        "name": "Superman",
+        "version": "Man of Steel",
+        "quality": "Gold",
+        "damage": "800",
+        "health": "1,200",
+        "price": "220,000"
+    },
+    {
+        "name": "Superman",
+        "version": "New 52",
+        "quality": "Gold",
+        "damage": "1,300",
+        "health": "1,500",
+        "price": "495,000"
+    },
+    {
+        "name": "Superman",
+        "version": "Prison",
+        "quality": "Gold",
+        "damage": "700",
+        "health": "800",
+        "price": "133,000"
+    },
+    {
+        "name": "Superman",
+        "version": "Red Son",
+        "quality": "Gold",
+        "damage": "1,000",
+        "health": "1,100",
+        "price": "241,000"
+    },
+    {
+        "name": "Superman",
+        "version": "Regime",
+        "quality": "Gold",
+        "damage": "900",
+        "health": "1,100",
+        "price": "220,000"
+    },
+    {
+        "name": "The Arkham Knight",
+        "version": "Arkham Knight",
+        "quality": "Gold",
+        "damage": "1,100",
+        "health": "1,200",
+        "price": "310,000"
+    },
+    {
+        "name": "The Batman Who Laughs",
+        "version": "Metal",
+        "quality": "Metal",
+        "damage": "2,800",
+        "health": "2,800",
+        "price": "N/A"
+    },
+    {
+        "name": "The Flash",
+        "version": "Prime",
+        "quality": "Bronze",
+        "damage": "280",
+        "health": "180",
+        "price": "11,000"
+    },
+    {
+        "name": "The Flash",
+        "version": "Blackest Night",
+        "quality": "Gold",
+        "damage": "1,500",
+        "health": "1,300",
+        "price": "Online Exclusive"
+    },
+    {
+        "name": "The Flash",
+        "version": "Earth 2",
+        "quality": "Gold",
+        "damage": "1,350",
+        "health": "1,350",
+        "price": "486,000"
+    },
+    {
+        "name": "The Flash",
+        "version": "Elseworld",
+        "quality": "Gold",
+        "damage": "750",
+        "health": "750",
+        "price": "133,000"
+    },
+    {
+        "name": "The Flash",
+        "version": "Metahuman",
+        "quality": "Gold",
+        "damage": "1,200",
+        "health": "1,200",
+        "price": "Online Exclusive"
+    },
+    {
+        "name": "The Flash",
+        "version": "New 52",
+        "quality": "Bronze",
+        "damage": "280",
+        "health": "180",
+        "price": "11,000"
+    },
+    {
+        "name": "The Flash",
+        "version": "Regime",
+        "quality": "Silver",
+        "damage": "480",
+        "health": "370",
+        "price": "47,000"
+    },
+    {
+        "name": "The Joker",
+        "version": "Prime",
+        "quality": "Silver",
+        "damage": "470",
+        "health": "400",
+        "price": "47,000"
+    },
+    {
+        "name": "The Joker",
+        "version": "Arkham Origins",
+        "quality": "Gold",
+        "damage": "1,150",
+        "health": "850",
+        "price": "220,000"
+    },
+    {
+        "name": "The Joker",
+        "version": "Insurgency",
+        "quality": "Gold",
+        "damage": "750",
+        "health": "850",
+        "price": "148,000"
+    },
+    {
+        "name": "The Joker",
+        "version": "Suicide Squad",
+        "quality": "Gold",
+        "damage": "1,350",
+        "health": "1,350",
+        "price": "493,000"
+    },
+    {
+        "name": "The Joker",
+        "version": "The Killing Joke",
+        "quality": "Gold",
+        "damage": "950",
+        "health": "750",
+        "price": "60 Alliance Credits"
+    },
+    {
+        "name": "The Joker Unhinged",
+        "version": "Suicide Squad",
+        "quality": "Gold",
+        "damage": "1,400",
+        "health": "1,300",
+        "price": "Online Exclusive"
+    },
+    {
+        "name": "The Merciless",
+        "version": "Metal",
+        "quality": "Metal",
+        "damage": "2,700",
+        "health": "2,900",
+        "price": "N/A"
+    },
+    {
+        "name": "Wally West",
+        "version": "Rebirth",
+        "quality": "Gold",
+        "damage": "1,350",
+        "health": "1,300",
+        "price": "Online Exclusive"
+    },
+    {
+        "name": "Wonder Woman",
+        "version": "Prime",
+        "quality": "Silver",
+        "damage": "420",
+        "health": "460",
+        "price": "49,000"
+    },
+    {
+        "name": "Wonder Woman",
+        "version": "600",
+        "quality": "Gold",
+        "damage": "800",
+        "health": "1,100",
+        "price": "201,000"
+    },
+    {
+        "name": "Wonder Woman",
+        "version": "Dawn of Justice",
+        "quality": "Gold",
+        "damage": "1,100",
+        "health": "1,400",
+        "price": "395,000"
+    },
+    {
+        "name": "Wonder Woman",
+        "version": "New 52",
+        "quality": "Gold",
+        "damage": "1,300",
+        "health": "1,200",
+        "price": "370,000"
+    },
+    {
+        "name": "Wonder Woman",
+        "version": "Red Son",
+        "quality": "Gold",
+        "damage": "900",
+        "health": "1,000",
+        "price": "201,000"
+    },
+    {
+        "name": "Wonder Woman",
+        "version": "Regime",
+        "quality": "Gold",
+        "damage": "750",
+        "health": "1,050",
+        "price": "182,000"
+    },
+    {
+        "name": "Zatanna",
+        "version": "Prime",
+        "quality": "Gold",
+        "damage": "900",
+        "health": "1,150",
+        "price": "231,000"
+    },
+    {
+        "name": "Zod",
+        "version": "Prime",
+        "quality": "Gold",
+        "damage": "800",
+        "health": "1,200",
+        "price": "220,000"
+    }
+]
