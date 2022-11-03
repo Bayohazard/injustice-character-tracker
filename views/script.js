@@ -14,16 +14,3 @@ function updateTableOpacity() {
 
 document.addEventListener('DOMContentLoaded', updateTableOpacity);
 characterListTableBody.addEventListener('change', updateTableOpacity);
-
-function showData() {
-    const characterListCheckboxes = document.querySelectorAll('#character-list tbody tr input.checkbox');
-
-    let obtained = 0;
-    characterListCheckboxes.forEach((checkbox) => {
-        if (checkbox.checked) {
-            obtained++;
-        }
-    });
-
-    console.log(`${obtained}/${characterListCheckboxes.length}`);
-}
