@@ -9,22 +9,22 @@
     </head>
     <body>
         <h1 id="title">Injustice Character Tracker</h1>
-        <table id="character-list">
-            <thead>
-                <tr>
-                    <th>Name</th>
-                </tr>
-            </thead>
-            <tbody>
+        <main id="character-list">
+            <div id="character-list-title">
+                <h2>Character Name</h2>
+            </div>
+            <div id="character-list-characters">
                 <% characters.forEach((character) => { %>
-                    <tr id="<%- character.name.toLowerCase() %>-<%- character.version.toLowerCase() %>-row">
-                        <!-- <td class="character-obtained"><input class="checkbox" type="checkbox" /></td> -->
-                        <td class="character-name"><%- character.name %>/<%- character.version %></td>
-                        <!-- <td class="character-level">60</td>
-                        <td class="character-promotion">X</td> --> %>
-                    </tr>
+                    <div class="character-row" id="<%- character.name.toLowerCase() %>-<%- character.version.toLowerCase() %>-row">
+                        <div class="character-obtained">
+                            <input type="checkbox" />
+                        </div>
+                        <div class="character-name-wrapper">
+                            <div class="character-name"><%- character.name %>/<%- character.version %></div>
+                        </div>
+                    </div>
                 <% }); %>
-            </tbody>
-        </table>
+            </div>
+        </main>
     </body>
 </html>

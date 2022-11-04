@@ -15,36 +15,50 @@ h1 {
   color: white;
 }
 
-table {
-  color: white;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-table, th, td {
-  border: 1px solid white;
-  text-align: center;
-}
-
-td, th {
-  padding: 13px 10px;
-}
-
-th {
-  font-weight: bold;
-  font-size: 60px;
-}
-
 #title {
   margin-bottom: 100px;
   font-weight: bold;
-  font-size: 70px;
+  font-size: 4.5rem;
   text-align: center;
+}
+
+#character-list {
+  border: 3px solid white;
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+#character-list-title {
+  display: flex;
+  justify-content: center;
+  padding: 2rem 0;
+  border-bottom: 3px solid white;
+}
+#character-list-title h2 {
+  font-size: 4rem;
 }
 
 .character-name {
   font-size: 50px;
-  padding: 45px;
+}
+.character-row {
+  display: flex;
+  padding: 2rem;
+  border-bottom: 3px solid white;
+}
+.character-row:last-child {
+  border: none;
+}
+.character-name {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.character-name-wrapper {
+  flex-grow: 2;
+}
+.character-obtained {
+  padding: 2rem;
 }
 
 .faded {
