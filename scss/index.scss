@@ -50,7 +50,7 @@ h1 {
 
     &-row {
         display: flex;
-        padding: 2rem;
+        padding: 2rem 3rem;
         border-bottom: $border-width solid $border-color;
 
         &:last-child {
@@ -68,8 +68,17 @@ h1 {
         }
     }
 
-    &-obtained {
-        padding: 2rem;
+    &-obtained-checkbox {
+        display: flex;
+        align-self: center;
+        background-color: white;
+        border-radius: 100%;
+        width: 3rem;
+        height: 3rem;
+
+        &.checked {
+            background-color: #3AB102;
+        }
     }
 }
 

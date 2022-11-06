@@ -1,16 +1,11 @@
-const characterListTableBody = document.querySelector('#character-list tbody');
+const checkboxes = document.querySelectorAll('.character-obtained-checkbox');
 
-function updateTableOpacity() {
-    const characterListCheckboxes = document.querySelectorAll('#character-list tbody tr input.checkbox');
+checkboxes.forEach((checkbox) => {
+    checkbox.addEventListener('click', (e) => {
+        const rowName = e.target.parentElement.id;
+        const characterName = document.querySelector(`#${rowName} .character-name`);
 
-    characterListCheckboxes.forEach((checkbox) => {
-        if (checkbox.checked) {
-            checkbox.closest('tr').classList.remove('faded');
-        } else {
-            checkbox.closest('tr').classList.add('faded');
-        }
+        characterName.classList.toggle('faded');
+        checkbox.classList.toggle('checked');
     });
-}
-
-document.addEventListener('DOMContentLoaded', updateTableOpacity);
-characterListTableBody.addEventListener('change', updateTableOpacity);
+});
