@@ -16,7 +16,7 @@
             <div id="character-list-characters">
                 <% characters.forEach((character) => { %>
                     <div class="character-row" id="<%- character.name.toLowerCase().split(' ').join('-') %>-<%- character.version.toLowerCase().split(' ').join('-') %>-row">
-                        <div class="character-obtained-checkbox"></div>
+                        <input type="checkbox" class="character-obtained-checkbox" />
                         <div class="character-name-wrapper">
                             <div class="character-name"><%- character.name %>/<%- character.version %></div>
                         </div>
