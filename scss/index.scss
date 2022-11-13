@@ -106,7 +106,6 @@ h1 {
     &-stats {
         padding: 2rem 3rem;
         border-bottom: $border-width solid $border-color;
-        transition: height 1.3s ease-in;
     }
 
     &-promotion, &-level {
@@ -136,9 +135,7 @@ h1 {
 }
 
 .hide {
-    height: 0;
-    visibility: hidden;
-    padding: 0;
+    display: none;
 }
 
 .slider {

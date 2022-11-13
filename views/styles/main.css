@@ -86,7 +86,6 @@ h1 {
 .character-stats {
   padding: 2rem 3rem;
   border-bottom: 3px solid white;
-  transition: height 1.3s ease-in;
 }
 .character-promotion, .character-level {
   padding: 2rem 0;
@@ -111,9 +110,7 @@ h1 {
 }
 
 .hide {
-  height: 0;
-  visibility: hidden;
-  padding: 0;
+  display: none;
 }
 
 .slider {
