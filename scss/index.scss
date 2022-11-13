@@ -40,6 +40,11 @@ h1 {
         h2 {
             font-size: 4rem;
         }
+    &-characters {
+        .character-row:last-child .character-overview {
+            border-bottom: none;
+        }
+    }
 
     }
 }
@@ -58,10 +63,6 @@ h1 {
     &-row {
         display: flex;
         flex-direction: column;
-
-        &:last-child {
-            border: none;
-        }
 
         &-expanded {
             background-color: #4F4F4F;

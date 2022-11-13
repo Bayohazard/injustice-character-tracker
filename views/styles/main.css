@@ -38,6 +38,9 @@ h1 {
 #character-list-title h2 {
   font-size: 4rem;
 }
+#character-list-characters .character-row:last-child .character-overview {
+  border-bottom: none;
+}
 
 .character-overview {
   display: flex;
@@ -50,9 +53,6 @@ h1 {
 .character-row {
   display: flex;
   flex-direction: column;
-}
-.character-row:last-child {
-  border: none;
 }
 .character-row-expanded {
   background-color: #4F4F4F;
