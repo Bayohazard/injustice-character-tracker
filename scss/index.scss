@@ -3,6 +3,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body {
@@ -44,17 +45,26 @@ h1 {
 }
 
 .character {
+    &-overview {
+        display: flex;
+        padding: 2rem 3rem;
+        border-bottom: $border-width solid $border-color;
+    }
+
     &-name {
         font-size: 50px;
     }
 
     &-row {
         display: flex;
-        padding: 2rem 3rem;
-        border-bottom: $border-width solid $border-color;
+        flex-direction: column;
 
         &:last-child {
             border: none;
+        }
+
+        &-expanded {
+            background-color: #4F4F4F;
         }
     }
 
@@ -75,6 +85,7 @@ h1 {
         border-radius: 100%;
         width: 3rem;
         height: 3rem;
+        margin: 0 10px;
 
         &:checked {
             & + div {
@@ -82,12 +93,78 @@ h1 {
             }
         }
 
+        &:hover {
+            cursor: pointer;
+        }
+
         & + div {
             opacity: 0.2;
         }
+    }
+
+    &-stats {
+        padding: 2rem 3rem;
+        border-bottom: $border-width solid $border-color;
+        transition: height 1.3s ease-in;
+    }
+
+    &-promotion, &-level {
+        padding: 2rem 0;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        p {
+            font-size: 2.5rem;
+            font-weight: bold;
+            width: 200px;
+        }
+
+        &-text-input {
+            font-size: 2rem;
+            padding: 0.5rem 1.5rem;
+            text-align: center;
+            border-radius: 10px;
+        }
+
     }
 }
 
 .faded {
     opacity: 0.2;
+}
+
+.hide {
+    height: 0;
+    visibility: hidden;
+    padding: 0;
+}
+
+.slider {
+    -webkit-appearance: none;
+    width: 50%;
+    height: 15px;
+    background-color: white;
+    outline: none;
+    border-radius: 8px;
+}
+
+/* for chrome/safari */
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 20px;
+    height: 60px;
+    background-color: #2B2B2B;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+/* for firefox */
+.slider::-moz-range-thumb {
+    width: 20px;
+    height: 60px;
+    background-color: #2B2B2B;
+    cursor: pointer;
+    border-radius: 4px;
 }

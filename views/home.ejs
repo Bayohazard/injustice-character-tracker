@@ -2,7 +2,6 @@
 <html lang="en" dir="ltr">
     <head>
         <meta charset="utf-8">
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet">
         <link rel="stylesheet" href="./styles/main.css">
         <script src="script.js" charset="utf-8" defer></script>
         <title>Injustice Character Tracker</title>
@@ -16,9 +15,23 @@
             <div id="character-list-characters">
                 <% characters.forEach((character) => { %>
                     <div class="character-row" id="<%- character.name.toLowerCase().split(' ').join('-') %>-<%- character.version.toLowerCase().split(' ').join('-') %>-row">
-                        <input type="checkbox" class="character-obtained-checkbox" />
-                        <div class="character-name-wrapper">
-                            <div class="character-name"><%- character.name %>/<%- character.version %></div>
+                        <div class="character-overview">
+                            <input type="checkbox" class="character-obtained-checkbox" />
+                            <div class="character-name-wrapper">
+                                <div class="character-name test"><%- character.name %>/<%- character.version %></div>
+                            </div>
+                        </div>
+                        <div class="character-stats hide">
+                            <div class="character-promotion">
+                                <p>Promotion</p>
+                                <input class="character-prmotion-slider-input slider" type="range" min="0" max="10" value="0" />
+                                <input class="character-promotion-text-input" type="number" min="0" max="10" value="0" />
+                            </div>
+                            <div class="character-level">
+                                <p>Level</p>
+                                <input class="character-level-slider-input slider" type="range" min="1" max="60" value="1" />
+                                <input class="character-level-text-input" type="number" min="1" max="60" value="1" />
+                            </div>
                         </div>
                     </div>
                 <% }); %>
