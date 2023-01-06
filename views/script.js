@@ -1,34 +1,32 @@
 const characterList = document.getElementById('character-list-characters');
 
-characterList.addEventListener('click', (e) => {
-    if (e.target.type === 'checkbox' && !e.target.checked) {
-        const id = e.target.parentElement.parentElement.id;
-        document.querySelector(`#${id} .character-stats`).classList.add('hide');
-        document.querySelector(`#${id}`).classList.remove('character-row-expanded');
-        return;
-    }
+characterRows.forEach(row => {
+    const overview = row.querySelector('.character-overview');
 
-    if (e.target.type === 'checkbox') {
-        return;
-    }
+    overview.addEventListener('click', (e) => {
+        const checkbox = row.querySelector('.character-obtained-checkbox');
 
-    const classes = e.target.classList;
-    let id = '';
+        // Hide stats section if unchecking checkbox
+        if (e.target.type === 'checkbox' && !checkbox.checked) {
+            row.querySelector('.character-stats').classList.add('hide');
+            row.classList.remove('character-row-expanded');
+            return;
+        }
 
-    if (classes[0] === 'character-overview') {
-        id = e.target.parentElement.id;
-    }
+        if (e.target.type === 'checkbox') {
+            return;
+        }
 
-    if (classes[0] === 'character-name') {
-        id = e.target.parentElement.parentElement.parentElement.id;
-    }
+        if (checkbox.checked) {
+            row.querySelector('.character-stats').classList.toggle('hide');
+            row.classList.toggle('character-row-expanded');
+        }
+    });
+})
 
-    if (classes[0] === 'character-name-wrapper') {
-        id = e.target.parentElement.parentElement.id;
-    }
-
-    if (document.querySelector(`#${id} .character-obtained-checkbox`).checked) {
-        document.querySelector(`#${id} .character-stats`).classList.toggle('hide');
-        document.querySelector(`#${id}`).classList.toggle('character-row-expanded');
-    }
+const characterSliders = [...document.getElementsByClassName('character-prmotion-slider-input')];
+characterSliders.forEach((slider) => {
+    slider.addEventListener('input', e => {
+        console.log(e.target.value);
+    });
 });

@@ -24,8 +24,8 @@
                         <div class="character-stats hide">
                             <div class="character-promotion">
                                 <p>Promotion</p>
-                                <input class="character-prmotion-slider-input slider" type="range" min="0" max="10" value="0" />
-                                <input class="character-promotion-text-input" type="number" min="0" max="10" value="0" />
+                                <input class="character-prmotion-slider-input slider" id="<%- character.name.toLowerCase().split(' ').join('-') %>-<%- character.version.toLowerCase().split(' ').join('-') %>-slider" type="range" min="0" max="10" value="0" />
+                                <input class="character-promotion-text-input" id="<%- character.name.toLowerCase().split(' ').join('-') %>-<%- character.version.toLowerCase().split(' ').join('-') %>-text" type="number" min="0" max="10" value="0" />
                             </div>
                             <div class="character-level">
                                 <p>Level</p>
