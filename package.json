@@ -5,7 +5,7 @@
     "main": "server.js",
     "type": "module",
     "scripts": {
-        "scss-watch": "sass --watch scss/index.scss:views/styles/main.css",
+        "scss-watch": "sass --watch scss:views/styles --no-source-map",
         "nodemon-watch": "nodemon -e html,css,js .",
         "start": "run-p nodemon-watch scss-watch",
         "test": "echo \"Error: no test specified\" && exit 1"
